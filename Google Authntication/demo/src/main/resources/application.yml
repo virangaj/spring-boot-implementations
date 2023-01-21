@@ -1,0 +1,9 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 1074743985698-djimta8ltkrou35vq0hmtk1sqh3cv4if.apps.googleusercontent.com
+            clientSecret: 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
+            redirect-uri: http://localhost:3000/common
